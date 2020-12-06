@@ -1,0 +1,38 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "downlevelIteration": true,
+    // required to target es5
+    "types": [
+      "node",
+      "mocha"
+    ],
+    "lib": [
+      "es2017",
+      "dom",
+      "es6",
+      "es2015.iterable",
+      "es2018.promise"
+    ],
+    "baseUrl": "./",
+    "rootDirs": [
+      "src",
+      "tests"
+    ]
+  },
+  "exclude": [
+    "./node_modules/",
+    "./dist/",
+    "tests"
+  ]
+}
