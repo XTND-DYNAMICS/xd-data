@@ -68,11 +68,12 @@ export interface EntityRepository<T extends Model, ID = {}, Relations = {}> {
 }
 
 export interface DataChangeMessage {
-    clientId: string;
     event: string;
     model: string;
     id: string;
     data: Partial<Entity>;
+
+    clientId?: string;
 }
 
 export const IdentifierSeperator = ':';
