@@ -76,4 +76,10 @@ export interface DataChangeMessage {
     clientId?: string;
 }
 
+export class DataChange {}
+
+export enum DataChangeKeys {
+    LivePropertyDisabled = '$$livePropertyDisabled',
+}
+
 export const IdentifierSeperator = ':';
