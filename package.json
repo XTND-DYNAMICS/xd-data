@@ -1,6 +1,6 @@
 {
   "name": "@xtnd-dynamics/xd-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "XTND DYNAMICS Data System",
   "type": "module",
   "main": "dist/index.js",
