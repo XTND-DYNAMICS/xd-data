@@ -1,5 +1,5 @@
 {
-  "name": "xd-data",
+  "name": "@xtnd-dynamics/xd-data",
   "version": "0.0.1",
   "description": "XTND DYNAMICS Data System",
   "type": "module",

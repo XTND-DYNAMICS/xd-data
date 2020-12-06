@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5d159d-ffde-410d-9e09-a1369b5269a8" name="Default Changelist" comment="" />
+    <list default="true" id="8e5d159d-ffde-410d-9e09-a1369b5269a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lBKegxxyEDgz49Y1xL5h6U5paq" />
   <component name="ProjectViewState">
@@ -110,6 +116,7 @@
       <workItem from="1607076153383" duration="2522000" />
       <workItem from="1607136583977" duration="21153000" />
       <workItem from="1607161863186" duration="26096000" />
+      <workItem from="1607257556437" duration="174000" />
     </task>
     <servers />
   </component>
@@ -248,7 +255,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/tests/index.ts</url>
           <line>17</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
