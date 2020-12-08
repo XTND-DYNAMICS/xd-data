@@ -21,10 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5d159d-ffde-410d-9e09-a1369b5269a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nvmrc" beforeDir="false" afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +150,9 @@
       <workItem from="1607311980250" duration="2369000" />
       <workItem from="1607319616701" duration="487000" />
       <workItem from="1607437231225" duration="4272000" />
+      <workItem from="1607443467971" duration="49000" />
+      <workItem from="1607443623247" duration="17000" />
+      <workItem from="1607443991817" duration="314000" />
     </task>
     <servers />
   </component>
