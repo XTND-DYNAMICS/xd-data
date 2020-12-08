@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5d159d-ffde-410d-9e09-a1369b5269a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loopback/data-adapter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/entity-repository-data-adapter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loopback/index.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +154,7 @@
       <workItem from="1607443623247" duration="17000" />
       <workItem from="1607443991817" duration="576000" />
       <workItem from="1607444996870" duration="221000" />
+      <workItem from="1607445448761" duration="551000" />
     </task>
     <servers />
   </component>
