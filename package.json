@@ -6,7 +6,8 @@
   "scripts": {
     "prepare": "npm run build",
     "build": "tsc",
-    "test": "mocha --require ts-node/register --project tsconfig.testing.json --extensions ts,tsx --watch --watch-files src 'tests/**/*.{ts,tsx}' src/tests/index.ts"
+    "test": "mocha --require ts-node/register --project tsconfig.testing.json --extensions ts,tsx --watch --watch-files src 'tests/**/*.{ts,tsx}' src/tests/index.ts",
+    "clean": "tsc --build --clean"
   },
   "author": "Peter Andreas Moelgaard",
   "license": "MIT",
@@ -22,6 +23,7 @@
     "uuid": "^8.3.1"
   },
   "devDependencies": {
+    "@tsconfig/node14": "^1.0.0",
     "@types/chai": "^4.2.14",
     "@types/chance": "^1.1.0",
     "@types/lodash": "^4.14.165",

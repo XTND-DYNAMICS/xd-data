@@ -1,16 +1,15 @@
 {
+  "extends": "@tsconfig/node14/tsconfig.json",
   "compileOnSave": false,
   "compilerOptions": {
-    "module": "CommonJS",
-    "target": "ESNext",
+    "target": "ES2015",
     "outDir": "./dist",
     "sourceMap": true,
     "declaration": true,
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
+    "strictPropertyInitialization": false,
     "downlevelIteration": true,
     // required to target es5
     "types": [
@@ -22,7 +21,8 @@
       "dom",
       "es6",
       "es2015.iterable",
-      "es2018.promise"
+      "es2018.promise",
+      "es2020"
     ],
     "baseUrl": "./",
     "rootDirs": [
