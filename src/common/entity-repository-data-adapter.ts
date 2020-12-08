@@ -8,7 +8,7 @@ import {
     EntityEvent,
     EntityProperty,
     EntityRepository, IdentifierSeperator
-} from '../common/index';
+} from './index';
 
 export class EntityRepositoryDataAdapter<T extends Entity> extends DataAdapterBase<T> {
 
