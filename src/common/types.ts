@@ -13,6 +13,7 @@ export interface LivePropertyTarget {
 }
 
 export abstract class Model {
+
     static get modelName(): string {
         return this.definition?.name || this.name;
     }

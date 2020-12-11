@@ -31,7 +31,7 @@ export function LivePropertyDecorator(): any {
                     return;
                 }
 
-                console.log(`Live Property SET (${fieldKey}:${newValue})`);
+                console.log(`Live Property SET (${propertyKey}:${newValue})`);
 
                 _.set(this, fieldKey, newValue);
                 _.set(this, EntityProperty.LastUpdated, moment().toDate());
