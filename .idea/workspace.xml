@@ -20,23 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e5d159d-ffde-410d-9e09-a1369b5269a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loopback/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopback/loopback-crud-controller-data-adapter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopback/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/TESTS.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/entity-repository-data-adapter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/entity-repository-data-adapter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/live-property.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/live-property.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/mocks/entity.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/mocks/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/mocks/repository.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/mocks/socket.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.testing.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +145,10 @@
       <workItem from="1607702785598" duration="4314000" />
       <workItem from="1607707573012" duration="579000" />
       <workItem from="1607708263836" duration="1817000" />
+      <workItem from="1607710566663" duration="34000" />
+      <workItem from="1608126746056" duration="17000" />
+      <workItem from="1608619507775" duration="606000" />
+      <workItem from="1608637606350" duration="53000" />
     </task>
     <servers />
   </component>
